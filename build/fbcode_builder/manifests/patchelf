@@ -9,7 +9,7 @@ patchelf
 
 [download]
 url = https://github.com/NixOS/patchelf/archive/0.10.tar.gz
-sha256 = b3cb6bdedcef5607ce34a350cf0b182eb979f8f7bc31eae55a93a70a3f020d13
+sha256 = 44d7b260e53272cb1c6d2558ee51f4d6291fa3f2e91de7488edef9556c1ff7e3
 
 [build]
 builder = autoconf
